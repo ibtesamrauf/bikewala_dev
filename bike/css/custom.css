@@ -1,0 +1,158 @@
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+/* CUSTOM CSS (ADD YOUR CSS HERE!) */
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+
+.b-nav__logo {
+	float: left;
+	padding: 0 0 0 5px;
+	background-image:none;
+	text-transform: uppercase;
+}
+.b-nav__logo h2 a {
+	font: 300 11px 'Open Sans', sans-serif;
+}
+.b-pageHeader h1 {
+	font: 300 48px 'Open Sans', sans-serif;
+}
+.b-pageHeader__search h3 {
+	font: 400 13px 'Open Sans', sans-serif;
+	color: #444;
+	margin: 0;
+	padding: 3px 10px;
+	border-left: 1px solid #444;
+	border-right: 1px solid #444;
+}
+.b-pageHeader__search {
+	background-color: #fff;
+	fill: #fff;
+}
+.b-pageHeader-green {
+	/*background-image: url(../images/backgrounds/bannergreen.png);*/
+	background: url(../images/backgrounds/bannergreen.png) center;   
+	background-repeat: repeat-x;
+	background-position: center top;
+}
+.b-pageHeader-blue {
+	
+	background: url(../images/backgrounds/bannerblue.png) center;   
+	background-repeat: repeat-x;
+	background-position: center top;
+}
+.nav-top-bg {
+	background-color: #d7f5ff;
+}
+.b-topBar__nav li a {
+	border-right: 1px solid #ddd;
+
+}
+.b-topBar__nav li:last-child {
+	border-left: 0;
+}
+.b-topBar__nav {
+	border-right: 0;
+}
+.b-topBar__nav li {
+	font: 600 13px 'Open Sans', sans-serif;
+}
+.b-nav__list ul li a {
+	padding: 0 14px 15px 14px;
+	font: 400 18px 'Open Sans', sans-serif;
+}
+.nav-orange {
+	color: #ee0027 !important;
+}
+.b-nav__list ul li a span.fa {
+	color: #0084b8;
+	fill: #0084b8;
+}
+.b-nav__list ul li a:hover {
+	border-bottom: 3px solid #0084b8;
+}
+.b-items__cars-one-info-header h2 {
+	float: left;
+	font: 600 24px 'Open Sans', sans-serif;
+	padding-left: 15px;
+	border-left: 1px solid #0084b8;
+	margin: 8px 0 0 0;
+	line-height: 1;
+	padding: 1px 0 1px 15px;
+}
+.b-items__cars-one-info-header > span {
+	background-color: #0084b8;
+}
+.s-title {
+	font: 400 18px 'Open Sans', sans-serif;
+	padding: 0;
+	border: none;
+	text-transform: uppercase;
+	display: block;
+	letter-spacing: 1px;
+	line-height: 45px;
+	background: #00b7ff;
+	color: #FFF;
+}
+.b-items .s-title {
+	margin-bottom: 0;
+}
+.b-items__aside-main-body-item .ui-widget-header {
+	background-color: #0084b8;
+	fill: #0084b8;
+}
+.ui-slider-handle:after {    background-color: #0084b8;
+    fill: #0084b8;
+}
+.b-items__aside-main-body-item > div select + span.fa {color: #0084b8;
+    fill: #0084b8;}
+	
+.b-items__aside-sell-info {
+    background: #0084b8;
+}
+.b-items__aside-main-footer button.btn.m-btn { border-color:#0084b8; background-color:#0084b8;}
+
+.b-items__pagination-main > span.m-active a, .b-items__pagination-main > span:hover a {
+    font: 700 15px 'Open Sans',sans-serif;
+	color:#0084b8;
+}
+.b-items__pagination-main > span a {
+    font: 400 15px 'Open Sans',sans-serif;
+}
+.b-items__pagination-main > span.m-active a {
+    font: 700 15px 'Open Sans',sans-serif;
+	color: #0084b8;
+    fill: #0084b8;
+}
+.b-features { background-color:#0084b8;}
+.b-info__latest > h3, .b-info__aside-article > h3, .b-info__twitter > h3, .b-info__contacts > p { 
+	color:#0084b8;
+	margin: 0 0 20px 0;
+    font: 400 14px 'Open Sans',sans-serif;
+    text-transform: uppercase;
+    padding: 0 10px;
+    border-right: 1px solid #fff;
+    border-left: 1px solid #fff;
+    display: inline-block;
+}
+.b-footer__content-nav ul li a {
+    text-transform: uppercase;
+}
+.b-items__cars-one-info p {
+    font: 300 15px 'Open Sans',sans-serif;
+    margin: 0 0 30px 0;
+	color: #212121;
+    font-weight: 400;
+}
+.b-infoBar__select-one a.m-active, .b-infoBar__select-one a:hover {
+	color: #0084b8;
+    fill: #0084b8;
+}
+.b-infoBar__compare-item span.fa {color: #0084b8;
+    fill: #0084b8;
+}
+.b-topBar__lang a span.fa {color: #0084b8;
+    fill: #0084b8;}
+.s-headerSubmit h2 {border-left: 2px solid #0084b8 !important;}
+.s-submit input[type='text']{
+    font: 600 13px 'Open Sans',sans-serif !important;
+}
+.b-submit__main-file textarea
+{font: 600 13px 'Open Sans',sans-serif !important;}

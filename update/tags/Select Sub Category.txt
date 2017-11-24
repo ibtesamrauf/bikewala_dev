@@ -1,0 +1,76 @@
+﻿Arabic:
+حدد الفئة الفرعية
+Bulgarian:
+Изберете под категория
+Catalan:
+Seleccioneu la categoria de Sub
+Chinese Simplified:
+选择子类别
+Czech:
+Vyberte podkategorie
+Danish:
+Vælge underkategori
+Dutch:
+Selecteer subcategorie
+English:
+Select Sub Category
+Estonian:
+Valige alamkategooria
+Finnish:
+Valitse alaluokka
+French:
+Sélectionnez la sous-catégorie
+German:
+Wählen Sie Unterkategorie
+Greek:
+Επιλέξτε κατηγορία Sub
+Haitian Creole:
+Fè chwa Sub kategori
+Hebrew:
+בחר קטגוריית משנה
+Hindi:
+उप श्रेणी का चयन करें
+Hmong Daw:
+Xaiv Sub qeb
+Hungarian:
+Válassza ki az Alkategória
+Indonesian:
+Pilih Sub Kategori
+Italian:
+Selezionare sottocategoria
+Japanese:
+サブ カテゴリを選択します
+Korean:
+하위 카테고리 선택
+Latvian:
+Atlasiet Sub kategoriju
+Lithuanian:
+Pasirinkite Sub kategorija
+Norwegian:
+Velg en underkategori
+Persian:
+زیر شاخه ها را انتخاب کنید
+Polish:
+Wybierz podkategorię
+Portuguese:
+Selecione a Sub Categoria
+Romanian:
+Selectaţi subcategoria
+Russian:
+Выберите Подкатегория
+Slovak:
+Vyberte podkategóriu
+Slovenian:
+Izberite Sub kategorije
+Spanish:
+Seleccione la subcategoría
+Swedish:
+Välj underkategori
+Thai:
+เลือกประเภทย่อย
+Turkish:
+Alt kategori seçin
+Ukrainian:
+Виберіть підкатегорії Категорія
+Vietnamese:
+Chọn danh mục phụ

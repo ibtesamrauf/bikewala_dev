@@ -1,0 +1,76 @@
+﻿Arabic:
+المفضلة
+Bulgarian:
+Фаворит
+Catalan:
+Favorit
+Chinese Simplified:
+收藏夹
+Czech:
+Oblíbené
+Danish:
+Favorit
+Dutch:
+Favoriet
+English:
+Favorite
+Estonian:
+Lemmik
+Finnish:
+Suosikki
+French:
+Favori
+German:
+Favorit
+Greek:
+Αγαπημένο
+Haitian Creole:
+Ke
+Hebrew:
+פריט מועדף
+Hindi:
+पसंदीदा
+Hmong Daw:
+Favorite
+Hungarian:
+Kedvenc
+Indonesian:
+Favorit
+Italian:
+Preferiti
+Japanese:
+お気に入り
+Korean:
+즐겨찾기
+Latvian:
+Izlases
+Lithuanian:
+Mėgstamiausia
+Norwegian:
+Favoritt
+Persian:
+مورد علاقه
+Polish:
+Ulubione
+Portuguese:
+Favorito
+Romanian:
+Favorit
+Russian:
+Любимый
+Slovak:
+Favorit
+Slovenian:
+Najljubši
+Spanish:
+Favorito
+Swedish:
+Favorit
+Thai:
+รายการโปรด
+Turkish:
+Favori
+Ukrainian:
+Улюблений
+Vietnamese:
+Yêu thích

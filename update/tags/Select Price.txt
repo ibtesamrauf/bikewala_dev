@@ -1,0 +1,76 @@
+﻿Arabic:
+حدد السعر
+Bulgarian:
+Изберете цена
+Catalan:
+Seleccioneu el preu
+Chinese Simplified:
+选择价格
+Czech:
+Vyberte cenu
+Danish:
+Vælg pris
+Dutch:
+Selecteer prijs
+English:
+Select Price
+Estonian:
+Valige hind
+Finnish:
+Valitse hinta
+French:
+Sélectionnez prix
+German:
+Wählen Sie Preis
+Greek:
+Επιλέξτε την τιμή
+Haitian Creole:
+Fè chwa Prix
+Hebrew:
+בחר מחיר
+Hindi:
+मूल्य का चयन करें
+Hmong Daw:
+Xaiv nqe
+Hungarian:
+Válassza ki az ár
+Indonesian:
+Pilih harga
+Italian:
+Selezionare il prezzo
+Japanese:
+価格を選択します。
+Korean:
+가격 선택
+Latvian:
+Izvēlieties cenu
+Lithuanian:
+Pasirinkite kaina
+Norwegian:
+Velg pris
+Persian:
+را انتخاب کنید قیمت
+Polish:
+Wybierz cenę
+Portuguese:
+Selecione preço
+Romanian:
+Selectaţi Pret
+Russian:
+Выберите цену
+Slovak:
+Vyberte cena
+Slovenian:
+Izberite cena
+Spanish:
+Seleccione precio
+Swedish:
+Välj pris
+Thai:
+เลือกราคา
+Turkish:
+Fiyat seç
+Ukrainian:
+Виберіть ціну
+Vietnamese:
+Chọn giá

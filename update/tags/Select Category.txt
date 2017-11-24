@@ -1,0 +1,76 @@
+﻿Arabic:
+حدد الفئة
+Bulgarian:
+Изберете категория
+Catalan:
+Seleccioneu la categoria
+Chinese Simplified:
+选择类别
+Czech:
+Vyberte kategorii
+Danish:
+Vælg kategori
+Dutch:
+Selecteer categorie
+English:
+Select Category
+Estonian:
+Valige kategooria
+Finnish:
+Valitse luokka
+French:
+Sélectionnez la catégorie
+German:
+Wählen Sie Kategorie
+Greek:
+Επιλέξτε κατηγορία
+Haitian Creole:
+Fè chwa kategori
+Hebrew:
+בחר קטגוריה
+Hindi:
+श्रेणी का चयन करें
+Hmong Daw:
+Xaiv cov qeb
+Hungarian:
+Válasszon kategóriát
+Indonesian:
+Pilih Kategori
+Italian:
+Selezionare la categoria
+Japanese:
+カテゴリを選択します
+Korean:
+카테고리 선택
+Latvian:
+Izvēlieties kategoriju
+Lithuanian:
+Pasirinkite kategoriją
+Norwegian:
+Velg kategori
+Persian:
+انتخاب رده
+Polish:
+Wybierz kategorię
+Portuguese:
+Selecione a categoria
+Romanian:
+Selectaţi categoria
+Russian:
+Выберите категорию
+Slovak:
+Vyberte kategóriu
+Slovenian:
+Izberite kategorijo
+Spanish:
+Seleccione la categoría
+Swedish:
+Välj kategori
+Thai:
+เลือกประเภท
+Turkish:
+Kategori seçin
+Ukrainian:
+Виберіть категорію
+Vietnamese:
+Chọn danh mục

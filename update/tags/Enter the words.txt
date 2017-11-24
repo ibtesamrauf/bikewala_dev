@@ -1,0 +1,76 @@
+﻿Arabic:
+أدخل الكلمات
+Bulgarian:
+Въведете думите
+Catalan:
+Introduïu les paraules
+Chinese Simplified:
+输入的单词
+Czech:
+Zadejte slova
+Danish:
+Indtast ord
+Dutch:
+Voer de woorden
+English:
+Enter the words
+Estonian:
+Sisestage sõna
+Finnish:
+Kirjoita sanat
+French:
+Entrez les mots
+German:
+Geben Sie die Wörter
+Greek:
+Πληκτρολογήστε τις λέξεις
+Haitian Creole:
+Rantre nan sa
+Hebrew:
+הזן את המילים
+Hindi:
+शब्द दर्ज करें
+Hmong Daw:
+Sau lo lus
+Hungarian:
+Adja meg a szavak
+Indonesian:
+Masukkan kata-kata
+Italian:
+Inserisci le parole
+Japanese:
+単語を入力します。
+Korean:
+단어를 입력
+Latvian:
+Ievadiet vārdus
+Lithuanian:
+Įvesti žodžiai
+Norwegian:
+Skriv inn ordene
+Persian:
+واژه را وارد کنید
+Polish:
+Wprowadź wyrazy
+Portuguese:
+Digite as palavras
+Romanian:
+Introduceţi cuvintele
+Russian:
+Введите слова
+Slovak:
+Zadajte slová
+Slovenian:
+Vnesite besede
+Spanish:
+Introduzca las palabras
+Swedish:
+Ange orden
+Thai:
+ป้อนคำ
+Turkish:
+Sözcükleri girin
+Ukrainian:
+Введіть слова
+Vietnamese:
+Nhập các từ

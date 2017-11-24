@@ -1,0 +1,76 @@
+﻿Arabic:
+من نحن
+Bulgarian:
+За нас
+Catalan:
+Sobre nosaltres
+Chinese Simplified:
+关于我们
+Czech:
+O nás
+Danish:
+Om os
+Dutch:
+Informatie
+English:
+About Us
+Estonian:
+Meie kohta
+Finnish:
+Tietoja meistä
+French:
+Qui sommes-nous
+German:
+Über uns
+Greek:
+Σχετικά με εμάς
+Haitian Creole:
+Enfòmasyon pou nou
+Hebrew:
+עלינו
+Hindi:
+हमारे बारे में
+Hmong Daw:
+hais txog wb
+Hungarian:
+rólunk
+Indonesian:
+Tentang kita
+Italian:
+Chi Siamo
+Japanese:
+我々について
+Korean:
+회사소개
+Latvian:
+par mums
+Lithuanian:
+apie mus
+Norwegian:
+om oss
+Persian:
+در باره ما
+Polish:
+O nas
+Portuguese:
+Quem somos
+Romanian:
+despre noi
+Russian:
+О нас
+Slovak:
+o nás
+Slovenian:
+o nas
+Spanish:
+Sobre nosotros
+Swedish:
+Om oss
+Thai:
+เกี่ยวกับเรา
+Turkish:
+Hakkımızda
+Ukrainian:
+Про нас
+Vietnamese:
+Về chúng tôi
